@@ -1,9 +1,4 @@
-class ApplicationController < ActionController::Base
-  # Prevent CSRF attacks by raising an exception.
-  # For APIs, you may want to use :null_session instead.
-  protect_from_forgery with: :exception
+#Ruby on Rails Tutorial XMAS
 
-  def hello
-    render text:  "Fuck You"
-  end
-end
+This is bullshit text
+
